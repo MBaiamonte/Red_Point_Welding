@@ -1,9 +1,11 @@
 import React from 'react'
 
 const Header = () => {
-  return (
-    <div>Header</div>
-  )
+    return (
+        <div>
+            <h1>footer</h1>
+        </div>
+    )
 }
 
 export default Header
