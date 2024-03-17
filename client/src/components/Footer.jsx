@@ -8,7 +8,7 @@ const Footer = () => {
                 Copyright 2024 <span>&copy;</span> Redpoint Welding, LLC
                 </h5>
             </div>
-            <div className='d-flex justify-content-around'>
+            <div className='d-flex justify-content-around flex-wrap'>
                 <div>
                     <p>7614 Nikau Dr, Niwot, CO 80503</p>
                 </div>
