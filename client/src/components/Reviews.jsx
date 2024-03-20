@@ -84,6 +84,21 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
+                <div className='review'>
+                    <h3>Gary Hagensen</h3>
+                    <p>
+                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
+                        I was looking for some one to install a new water heater in a confined space in my basement and a man I have a lot of respect for, Jeff Lally
+                        of Unlimited Property Improvements, recommended Jim Hone of
+                        Redpoint Welding LLC.  As I figured with Jeff's recommendation,  Jim
+                        had the same integrity and attention to detail that I was hoping for.
+                        Jim quoted me a price to do the job and spent several hours getting the
+                        water heater into the available space and making sure it was installed
+                        properly and leak free.  He checked back the next day to make sure I was
+                        satisfied with the installation.  Thanks for the quality work Jim.
+                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                    </p>
+                </div>
             </Slider>
         </div>
     );
