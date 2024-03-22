@@ -99,6 +99,16 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
+                <div className='review'>
+                    <h3>Brent Heintz</h3>
+                    <p>
+                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
+                        We hired Jim Hone to install a new water heater in our residence.  Jim communicated promptly, 
+                        arriving when he said he would—that was a nice start 
+                        He was professional, worked quickly and efficiently, and did the job we needed at a resonable price. Recommended!
+                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                    </p>
+                </div>
             </Slider>
         </div>
     );
