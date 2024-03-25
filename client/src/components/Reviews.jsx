@@ -110,10 +110,12 @@ const Reviews = () => {
                     </p>
                 </div>
                 <div className='review'>
-                    <h3></h3>
+                    <h3>Marcia Kramer</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                    
+                        Fantastic business! I have used Jim/ Redpoint welding several times and find the service to be exceptional. 
+                        He is efficient and very thorough. I completely trust and rely on the high quality of his work. 
+                        If you are in need of welding services you could not pick a better company. He is one of the "good guys" !
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
