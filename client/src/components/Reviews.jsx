@@ -138,7 +138,8 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
                         Jim Hone, Owner of Redpoint Welding LLC, has been doing a welding project off and on regarding two overhead cranes for about a year.  
                         He is reliable and does a good job with his welds.  He works well by himself or with others.  
-                        I would highly recommend Jim for any project that involves welding.                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                        I would highly recommend Jim for any project that involves welding.
+                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
             </Slider>
