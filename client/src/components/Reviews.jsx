@@ -151,6 +151,14 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
+                <div className='review'>
+                    <h3>Cole Bartlett</h3>
+                    <p>
+                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
+                        Jim did a great job installing a new gas line at our new house. He was efficient, friendly, and did a fantastic job.
+                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                    </p>
+                </div>
             </Slider>
         </div>
     );
