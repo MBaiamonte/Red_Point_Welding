@@ -159,6 +159,15 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
+                <div className='review'>
+                    <h3>Tim Weir</h3>
+                    <p>
+                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
+                        Now knowing what Jim has engineered, what I was asking him to do was nothing. Jim was very responsive to our plumbing needs and has always finished the job as if it was his own. 
+                        I appreciate that. More than anything, I made a friend!
+                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                    </p>
+                </div>
             </Slider>
         </div>
     );
