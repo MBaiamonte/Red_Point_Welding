@@ -168,6 +168,19 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
+                <div className='review'>
+                    <h3>Mathias Langley</h3>
+                    <p>
+                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
+                        After a decade of working in the steel fabrication industry I've found that whilst there are many 'welders' 
+                        there are few true 'fabricators'. Fewer still have such meticulous attention to detail, forward planning, mechanical 
+                        understanding, practical mathematical application, problem solving abilities, and self motivation as does Jim Hone.
+
+                        I've worked with many people in this industry, only a handful stand out as being exceptional. 
+                        Jim Hone stands out amongst even those few.
+                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                    </p>
+                </div>
             </Slider>
         </div>
     );
