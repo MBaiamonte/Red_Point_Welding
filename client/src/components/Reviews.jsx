@@ -198,6 +198,15 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
+                <div className='review'>
+                    <h3>Rob Walters</h3>
+                    <p>
+                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
+                        Jim is an exceptional problem solver who was priced fairly and completed the work on time. 
+                        I would recommend him to anyone and have done so many times.  You will not be disappointed.
+                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                    </p>
+                </div>
             </Slider>
         </div>
     );
