@@ -244,6 +244,14 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
+                <div className='review'>
+                    <h3>Scott Spielberger</h3>
+                    <p>
+                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
+                        Highly recommend Jim for any plumbing projects. Great work and very responsive.
+                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                    </p>
+                </div>
             </Slider>
         </div>
     );
