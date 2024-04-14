@@ -277,6 +277,15 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div>
+                <div className='review'>
+                    <h3>Theo</h3>
+                    <p>
+                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
+                        Jim just finished a custom metal project and I couldn't be happier with the results. Exceptional craftsmanship, creative solutions, attention to detail, and very professional.  
+                        I highly recommend Redpoint Welding. Ten stars!
+                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                    </p>
+                </div>
             </Slider>
         </div>
     );
