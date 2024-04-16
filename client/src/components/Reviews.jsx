@@ -16,6 +16,12 @@ const Reviews = () => {
         pauseOnHover: true
     };
 
+    const Review = () =>[
+        {
+            
+    }
+]
+
     return (
         <div id='slider'>
             <Slider {...settings}>
