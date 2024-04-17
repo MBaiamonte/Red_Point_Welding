@@ -22,6 +22,18 @@ const Reviews = () => {
             content: "Of 5 different plumbers that I contacted, Jim was by far the most responsive. He was quick to come by my place to assess the issue with the hot water heater, and even delayed other projects as he was quick to determine which issues were considered more criticalHe worked tirelessly for 6 hours, well into the eve, to be sure everything was complete. The following day he came by again to check his work and make sure there was nothing amiss. His price was by far better than any of the others, and the work was perfect. I highly recommend him?
     },
     {
+        name:"Julia Rechter",
+        content:"Jim Hone is a professional, responsible and fair contractor, who gets the job done! We've had him over for several plumbing issues and he has always been prompt, and responsive. Also, when an issue seems like it could be addressed without his intervention, he will offer us a way to fix the problem first,  and save us the trouble and expense of a visit to the house. Have had only good experiences with Jim."
+    },
+    {
+        name:"",
+        content:""
+    },
+    {
+        name:"",
+        content:""
+    },
+    {
         name:"",
         content:""
     }
