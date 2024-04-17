@@ -55,7 +55,7 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Julia Rechter</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
@@ -66,7 +66,7 @@ const Reviews = () => {
                         Have had only good experiences with Jim.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Mark McIntyre</h3>
                     <p>
