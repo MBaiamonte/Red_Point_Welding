@@ -26,8 +26,8 @@ const Reviews = () => {
         content:"Jim Hone is a professional, responsible and fair contractor, who gets the job done! We've had him over for several plumbing issues and he has always been prompt, and responsive. Also, when an issue seems like it could be addressed without his intervention, he will offer us a way to fix the problem first,  and save us the trouble and expense of a visit to the house. Have had only good experiences with Jim."
     },
     {
-        name:"",
-        content:""
+        name:"Mark McIntyre",
+        content:"I was able to give James a sketch of my thoughts about how to repair and improve an old steel water tank. James took my sketch and used a combination of off-the-shelf products, welding, and custom assembly to make a perfect product for me.Great work and highly recommended."
     },
     {
         name:"",
@@ -67,16 +67,13 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Mark McIntyre</h3>
                     <p>
-                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        I was able to give James a sketch of my thoughts about how to repair and improve an old steel water tank. 
-                        James took my sketch and used a combination of off-the-shelf products, welding, and custom assembly to make a perfect product for me.
-                        Great work and highly recommended.
+                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>I was able to give James a sketch of my thoughts about how to repair and improve an old steel water tank. James took my sketch and used a combination of off-the-shelf products, welding, and custom assembly to make a perfect product for me.Great work and highly recommended.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Willyn Webb</h3>
                     <p>
