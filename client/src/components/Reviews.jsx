@@ -34,8 +34,8 @@ const Reviews = () => {
         content:"Best service ever! Knowledgeable, honest, and efficient-this is the only place I would ever trust. Jim could have charged me the quotes $200 but he figured out how to fix my bed-fame without welding it and didn't charge! That's rare! I can't say enough good things!"
     },
     {
-        name:"",
-        content:""
+        name:"Joni Severson",
+        content:"The work Jim did for us was top notch.  The quality of his work and his eye for detail are impressive.  He had to adjust VERY old sink plumbing for one job and he got the job done without issue.  He also installed an exterior hot/cold spigot for us.  We would recommend him for sure and will use him for any future projects we have in our home."
     }
 ]
 
@@ -74,7 +74,7 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Willyn Webb</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
@@ -83,8 +83,8 @@ const Reviews = () => {
                         didn't charge! That's rare! I can't say enough good things!
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
-                <div className='review'>
+                </div> */}
+                {/* <div className='review'>
                     <h3>Joni Severson</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
@@ -94,7 +94,7 @@ const Reviews = () => {
                         We would recommend him for sure and will use him for any future projects we have in our home.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Matt Hathorn</h3>
                     <p>
