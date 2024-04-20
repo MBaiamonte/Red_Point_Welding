@@ -30,8 +30,8 @@ const Reviews = () => {
         content:"I was able to give James a sketch of my thoughts about how to repair and improve an old steel water tank. James took my sketch and used a combination of off-the-shelf products, welding, and custom assembly to make a perfect product for me.Great work and highly recommended."
     },
     {
-        name:"",
-        content:""
+        name:"Willyn Webb",
+        content:"Best service ever! Knowledgeable, honest, and efficient-this is the only place I would ever trust. Jim could have charged me the quotes $200 but he figured out how to fix my bed-fame without welding it and didn't charge! That's rare! I can't say enough good things!"
     },
     {
         name:"",
