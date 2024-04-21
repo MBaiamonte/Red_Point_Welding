@@ -36,6 +36,10 @@ const Reviews = () => {
     {
         name:"Joni Severson",
         content:"The work Jim did for us was top notch.  The quality of his work and his eye for detail are impressive.  He had to adjust VERY old sink plumbing for one job and he got the job done without issue.  He also installed an exterior hot/cold spigot for us.  We would recommend him for sure and will use him for any future projects we have in our home."
+    },
+    {
+        name:'Matt Hathorn',
+        content: 'Fantastic work. Jim was very easy to work with and went above and beyond to make sure we were happy with his work. VERY reasonable price. We couldnt ask for more.'
     }
 ]
 
@@ -95,7 +99,7 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Matt Hathorn</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
@@ -103,7 +107,7 @@ const Reviews = () => {
                         VERY reasonable price. We couldn't ask for more.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Gary Hagensen</h3>
                     <p>
