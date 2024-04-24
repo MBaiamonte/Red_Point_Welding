@@ -48,10 +48,18 @@ const Reviews = () => {
         name:'Brent Heintz',
         content: 'We hired Jim Hone to install a new water heater in our residence.  Jim communicated promptly, arriving when he said he would—that was a nice start He was professional, worked quickly and efficiently, and did the job we needed at a resonable price. Recommended!'
     },
-    ,{
+    {
+        name:'Marcia Kramer',
+        content: 'Fantastic business! I have used Jim/ Redpoint welding several times and find the service to be exceptional. He is efficient and very thorough. I completely trust and rely on the high quality of his work. If you are in need of welding services you could not pick a better company. He is one of the "good guys"!'
+    },
+    {
         name:'',
         content: ''
-    }
+    },
+    {
+        name:'',
+        content: ''
+    },
 ]
 
     return (
@@ -148,7 +156,7 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Marcia Kramer</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
@@ -157,7 +165,7 @@ const Reviews = () => {
                         If you are in need of welding services you could not pick a better company. He is one of the "good guys" !
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Dan Glusman</h3>
                     <p>
