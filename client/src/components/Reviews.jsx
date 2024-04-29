@@ -65,8 +65,8 @@ const Reviews = () => {
         content: 'Jim did a great job installing a new pressure reduction valve in our house. He was knowledgeable, prompt, and easy to work with. The price was pretty reasonable too. Thanx Jim.'
     },
     {
-        name:'',
-        content: ''
+        name:'Cole Bartlett',
+        content:'Jim did a great job installing a new gas line at our new house. He was efficient, friendly, and did a fantastic job.'
     },
 ]
 
@@ -206,14 +206,14 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Cole Bartlett</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
                         Jim did a great job installing a new gas line at our new house. He was efficient, friendly, and did a fantastic job.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Tim Weir</h3>
                     <p>
