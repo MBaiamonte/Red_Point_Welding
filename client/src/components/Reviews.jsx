@@ -70,7 +70,23 @@ const Reviews = () => {
     },{
         name:'Tim Weir',
         content:'Now knowing what Jim has engineered, what I was asking him to do was nothing. Jim was very responsive to our plumbing needs and has always finished the job as if it was his own. I appreciate that. More than anything, I made a friend!'
-    }
+    },
+    {
+        name:'Mathias Langley',
+        content:'After a decade of working in the steel fabrication industry Ive found that whilst there are many welders there are few true fabricators. Fewer still have such meticulous attention to detail, forward planning, mechanical understanding, practical mathematical application, problem solving abilities, and self motivation as does Jim Hone.Ive worked with many people in this industry, only a handful stand out as being exceptional. Jim Hone stands out amongst even those few.'
+    },
+    {
+        name:'',
+        content:''
+    },
+    {
+        name:'',
+        content:''
+    },
+    {
+        name:'',
+        content:''
+    },
 ]
 
     return (
@@ -221,16 +237,16 @@ const Reviews = () => {
                     <h3>Tim Weir</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                         Now knowing what Jim has engineered, what I was asking him to do was nothing. Jim was very responsive to our plumbing needs and has always finished the job as if it was his own. 
+                        Now knowing what Jim has engineered, what I was asking him to do was nothing. Jim was very responsive to our plumbing needs and has always finished the job as if it was his own. 
                         I appreciate that. More than anything, I made a friend!
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Mathias Langley</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        After a decade of working in the steel fabrication industry I've found that whilst there are many 'welders' 
+                        Mathias Langley After a decade of working in the steel fabrication industry I've found that whilst there are many 'welders' 
                         there are few true 'fabricators'. Fewer still have such meticulous attention to detail, forward planning, mechanical 
                         understanding, practical mathematical application, problem solving abilities, and self motivation as does Jim Hone.
 
@@ -238,7 +254,7 @@ const Reviews = () => {
                         Jim Hone stands out amongst even those few.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Ann Marquis</h3>
                     <p>
