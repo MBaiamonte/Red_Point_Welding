@@ -67,7 +67,10 @@ const Reviews = () => {
     {
         name:'Cole Bartlett',
         content:'Jim did a great job installing a new gas line at our new house. He was efficient, friendly, and did a fantastic job.'
-    },
+    },{
+        name:'Tim Weir',
+        content:'Now knowing what Jim has engineered, what I was asking him to do was nothing. Jim was very responsive to our plumbing needs and has always finished the job as if it was his own. I appreciate that. More than anything, I made a friend!'
+    }
 ]
 
     return (
@@ -214,15 +217,15 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Tim Weir</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        Now knowing what Jim has engineered, what I was asking him to do was nothing. Jim was very responsive to our plumbing needs and has always finished the job as if it was his own. 
+                         Now knowing what Jim has engineered, what I was asking him to do was nothing. Jim was very responsive to our plumbing needs and has always finished the job as if it was his own. 
                         I appreciate that. More than anything, I made a friend!
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Mathias Langley</h3>
                     <p>
