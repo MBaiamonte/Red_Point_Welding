@@ -76,8 +76,8 @@ const Reviews = () => {
         content:'After a decade of working in the steel fabrication industry Ive found that whilst there are many welders there are few true fabricators. Fewer still have such meticulous attention to detail, forward planning, mechanical understanding, practical mathematical application, problem solving abilities, and self motivation as does Jim Hone.Ive worked with many people in this industry, only a handful stand out as being exceptional. Jim Hone stands out amongst even those few.'
     },
     {
-        name:'',
-        content:''
+        name:'Ann Marquis',
+        content:'Amazing service. Prompt and honest. Jim was so easy to work with.'
     },
     {
         name:'',
@@ -255,14 +255,14 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Ann Marquis</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        Amazing service. Prompt and honest. Jim was so easy to work with.
+                        Ann Marquis Amazing service. Prompt and honest. Jim was so easy to work with.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Joan Brewster</h3>
                     <p>
