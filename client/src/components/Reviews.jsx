@@ -80,8 +80,8 @@ const Reviews = () => {
         content:'Amazing service. Prompt and honest. Jim was so easy to work with.'
     },
     {
-        name:'',
-        content:''
+        name:'Joan Brewster',
+        content:'The ACF Colorado Chefs Association has worked with Redpoint many times when needing welding skills. The work is on point and finished in a timely manner. They are a professional and friendly business. Glad to recommend.'
     },
     {
         name:'',
@@ -263,15 +263,15 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Joan Brewster</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        The ACF Colorado Chefs Association has worked with Redpoint many times when needing welding skills. 
+                        Joan Brewster The ACF Colorado Chefs Association has worked with Redpoint many times when needing welding skills. 
                         The work is on point and finished in a timely manner. They are a professional and friendly business. Glad to recommend.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Rob Walters</h3>
                     <p>
