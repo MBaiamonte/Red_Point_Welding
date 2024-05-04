@@ -84,6 +84,18 @@ const Reviews = () => {
         content:'The ACF Colorado Chefs Association has worked with Redpoint many times when needing welding skills. The work is on point and finished in a timely manner. They are a professional and friendly business. Glad to recommend.'
     },
     {
+        name:'Rob Walters',
+        content:'Jim is an exceptional problem solver who was priced fairly and completed the work on time. I would recommend him to anyone and have done so many times. You will not be disappointed.'
+    },
+    {
+        name:'',
+        content:''
+    },
+    {
+        name:'',
+        content:''
+    },
+    {
         name:'',
         content:''
     },
@@ -272,15 +284,15 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Rob Walters</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        Jim is an exceptional problem solver who was priced fairly and completed the work on time. 
-                        I would recommend him to anyone and have done so many times.  You will not be disappointed.
+                        Rob Walters Jim is an exceptional problem solver who was priced fairly and completed the work on time. 
+                        I would recommend him to anyone and have done so many times. You will not be disappointed.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Jill Hobson</h3>
                     <p>
