@@ -96,8 +96,8 @@ const Reviews = () => {
         content:'Excellent service and a very quick response to my call. There was a leak in the crawl space. He took pictures of where the leak was coming from and explained how he could fix it and did so very quickly. Rates were reasonable. I would certainly call him again if I had another issue. Highly recommend!'
     },
     {
-        name:'',
-        content:''
+        name:'Dan Brown',
+        content:'Jim helped us out when we needed help but didnt know how much help. He was clear and helpful and professional in all the work he did.  We would definitely use his services again.'
     },
     {
         name:'',
@@ -325,15 +325,15 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Dan Brown</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        Jim helped us out when we needed help but didn't know how much help.   
+                        Dan Brown Jim helped us out when we needed help but didn't know how much help.   
                         He was clear and helpful and professional in all the work he did.  We would definitely use his services again.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Brad Walters</h3>
                     <p>
