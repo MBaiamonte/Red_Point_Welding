@@ -92,6 +92,18 @@ const Reviews = () => {
         content:'Jim did a household plumbing job for me.  He was knowledgeable, thorough, cleaned everything up afterwards, and on top of that, had a great sense of humor.'
     },
     {
+        name:'Sharon Blatchley',
+        content:'Excellent service and a very quick response to my call. There was a leak in the crawl space. He took pictures of where the leak was coming from and explained how he could fix it and did so very quickly. Rates were reasonable. I would certainly call him again if I had another issue. Highly recommend!'
+    },
+    {
+        name:'',
+        content:''
+    },
+    {
+        name:'',
+        content:''
+    },
+    {
         name:'',
         content:''
     },
@@ -302,17 +314,17 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Sharon Blatchley</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        Excellent service and a very quick response to my call.  
+                        Sharon Blatchley Excellent service and a very quick response to my call.  
                         There was a leak in the crawl space. He took pictures of where the leak was coming from
                         and explained how he could fix it and did so very quickly. Rates were reasonable.  
                         I would certainly call him again if I had another issue. Highly recommend!
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Dan Brown</h3>
                     <p>
