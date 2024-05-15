@@ -112,8 +112,8 @@ const Reviews = () => {
         content:'Brazed a BBQ burner part that is no longer available and repaired a tubular steel lawn chair. The work was prompt and well executed. I would recommend Redpoint Welding.'
     },
     {
-        name:'',
-        content:''
+        name:'Av',
+        content:'Jim is an excellent pipe fitter and very knowledgeable, I have worked with him for years on several projects.'
     },
     {
         name:'',
@@ -371,14 +371,14 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>a v</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        Jim is an excellent pipe fitter and very knowledgeable, I have worked with him for years on several projects.
+                        a v Jim is an excellent pipe fitter and very knowledgeable, I have worked with him for years on several projects.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Eric McPherson</h3>
                     <p>
