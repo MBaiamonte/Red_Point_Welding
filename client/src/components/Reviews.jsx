@@ -116,8 +116,8 @@ const Reviews = () => {
         content:'Jim is an excellent pipe fitter and very knowledgeable, I have worked with him for years on several projects.'
     },
     {
-        name:'',
-        content:''
+        name:'Eric McPherson ',
+        content:'If youre looking for quality, Redpoint Welding is the place to go. The project they did for me turned out great, and the price was excellent.'
     },
     {
         name:'',
@@ -379,14 +379,14 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Eric McPherson</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        If you're looking for quality, Redpoint Welding is the place to go. The project they did for me turned out great, and the price was excellent.
+                        Eric McPherson If you're looking for quality, Redpoint Welding is the place to go. The project they did for me turned out great, and the price was excellent.
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
                 <div className='review'>
                     <h3>Theo</h3>
                     <p>
