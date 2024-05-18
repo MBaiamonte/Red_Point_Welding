@@ -120,8 +120,8 @@ const Reviews = () => {
         content:'If youre looking for quality, Redpoint Welding is the place to go. The project they did for me turned out great, and the price was excellent.'
     },
     {
-        name:'',
-        content:''
+        name:'Theo',
+        content:'Jim just finished a custom metal project and I couldnt be happier with the results. Exceptional craftsmanship, creative solutions, attention to detail, and very professional.  I highly recommend Redpoint Welding. Ten stars!'
     },
 ]
 
@@ -387,7 +387,7 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                <div className='review'>
+                {/* <div className='review'>
                     <h3>Theo</h3>
                     <p>
                         <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
@@ -395,7 +395,7 @@ const Reviews = () => {
                         I highly recommend Redpoint Welding. Ten stars!
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
-                </div>
+                </div> */}
             </Slider>
         </div>
     );
