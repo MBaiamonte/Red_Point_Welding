@@ -117,7 +117,7 @@ const Reviews = () => {
     },
     {
         name:'Eric McPherson ',
-        content:'If youre looking for quality, Redpoint Welding is the place to go. The project they did for me turned out great, and the price was excellent.'
+        content:'If  youre looking for quality, Redpoint Welding is the place to go. The project they did for me turned out great, and the price was excellent.'
     },
     {
         name:'Theo',
