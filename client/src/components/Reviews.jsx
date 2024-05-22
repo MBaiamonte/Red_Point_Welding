@@ -128,10 +128,6 @@ const Reviews = () => {
     return (
         <div id='slider'>
             <Slider {...settings}>
-                {/* ,{
-        name:'',
-        content: ''
-    } */}
                 {/* <div className='review'>
                     <h3>Pamela Stone</h3>
                     <p>
