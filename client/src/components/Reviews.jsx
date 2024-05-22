@@ -16,10 +16,10 @@ const Reviews = () => {
         pauseOnHover: true
     };
 
-    const Review = () =>[
+    const reviews = [
         {
             name:"Pamela Stone",
-            content: "Of 5 different plumbers that I contacted, Jim was by far the most responsive. He was quick to come by my place to assess the issue with the hot water heater, and even delayed other projects as he was quick to determine which issues were considered more criticalHe worked tirelessly for 6 hours, well into the eve, to be sure everything was complete. The following day he came by again to check his work and make sure there was nothing amiss. His price was by far better than any of the others, and the work was perfect. I highly recommend him?
+            content: "Of 5 different plumbers that I contacted, Jim was by far the most responsive. He was quick to come by my place to assess the issue with the hot water heater, and even delayed other projects as he was quick to determine which issues were considered more criticalHe worked tirelessly for 6 hours, well into the eve, to be sure everything was complete. The following day he came by again to check his work and make sure there was nothing amiss. His price was by far better than any of the others, and the work was perfect. I highly recommend him?"
     },
     {
         name:"Julia Rechter",
@@ -128,6 +128,16 @@ const Reviews = () => {
     return (
         <div id='slider'>
             <Slider {...settings}>
+            {reviews.map((review, index) => (
+                    <div className='review' key={index}>
+                        <h3>{review.name}</h3>
+                        <p>
+                            <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
+                            {review.content}
+                            <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
+                        </p>
+                    </div>
+                ))}
                 {/* <div className='review'>
                     <h3>Pamela Stone</h3>
                     <p>
