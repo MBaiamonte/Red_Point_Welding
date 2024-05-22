@@ -52,10 +52,7 @@ const Reviews = () => {
         name:'Marcia Kramer',
         content: 'Fantastic business! I have used Jim/ Redpoint welding several times and find the service to be exceptional. He is efficient and very thorough. I completely trust and rely on the high quality of his work. If you are in need of welding services you could not pick a better company. He is one of the "good guys"!'
     },
-    {
-        name:'Dan Glusman',
-        content: 'After working with Jim of Redpoint Welding at our brewery, I have been consistently amazed at both the quality of the work preformed, and enormous scope of work he was able to do.  In the past 8 months, he has handled boiler piping redesigns, municipal water heater installs and piping, water purification systems, carbon dioxide systems, compressed air piping, cooling systems, and custom fabrication of both mild and stainless steels, rigging, part repair, and the occasional odds and ends we needed...Most of this work occurred under spatial constraints which were extremely difficult on the best of days and terrible on the worst of them.  He was willing to work around our breweries production schedule where others were not, saving us considerable time and money in the process.  I would highly recommend him to anyone in the food & beverage space, or anyone else needing a fantastic welder and fabricator.  The depth of knowledge and understanding for what would work for us and what wouldnt, has been priceless, and is why we continue to work with him continuously.'
-    },
+    
     {
         name:'Dan Bradley',
         content: 'Jim Hone, Owner of Redpoint Welding LLC, has been doing a welding project off and on regarding two overhead cranes for about a year.  He is reliable and does a good job with his welds.  He works well by himself or with others.  I would highly recommend Jim for any project that involves welding.'
