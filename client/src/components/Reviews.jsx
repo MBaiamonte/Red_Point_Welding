@@ -52,7 +52,6 @@ const Reviews = () => {
         name:'Marcia Kramer',
         content: 'Fantastic business! I have used Jim/ Redpoint welding several times and find the service to be exceptional. He is efficient and very thorough. I completely trust and rely on the high quality of his work. If you are in need of welding services you could not pick a better company. He is one of the "good guys"!'
     },
-    
     {
         name:'Dan Bradley',
         content: 'Jim Hone, Owner of Redpoint Welding LLC, has been doing a welding project off and on regarding two overhead cranes for about a year.  He is reliable and does a good job with his welds.  He works well by himself or with others.  I would highly recommend Jim for any project that involves welding.'
