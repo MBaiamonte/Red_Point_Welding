@@ -339,15 +339,6 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                {/* <div className='review'>
-                    <h3>Dan Brown</h3>
-                    <p>
-                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        Dan Brown Jim helped us out when we needed help but didn't know how much help.   
-                        He was clear and helpful and professional in all the work he did.  We would definitely use his services again.
-                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
-                    </p>
-                </div> */}
             </Slider>
         </div>
     );
