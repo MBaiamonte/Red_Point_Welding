@@ -301,15 +301,6 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                {/* <div className='review'>
-                    <h3>Joan Brewster</h3>
-                    <p>
-                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        Joan Brewster The ACF Colorado Chefs Association has worked with Redpoint many times when needing welding skills. 
-                        The work is on point and finished in a timely manner. They are a professional and friendly business. Glad to recommend.
-                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
-                    </p>
-                </div> */}
             </Slider>
         </div>
     );
