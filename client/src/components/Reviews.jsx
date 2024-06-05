@@ -293,14 +293,7 @@ const Reviews = () => {
                         <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
                     </p>
                 </div> */}
-                {/* <div className='review'>
-                    <h3>Ann Marquis</h3>
-                    <p>
-                        <FontAwesomeIcon icon={faQuoteLeft} className='mr-2'/>
-                        Ann Marquis Amazing service. Prompt and honest. Jim was so easy to work with.
-                        <FontAwesomeIcon icon={faQuoteRight} className='ml-2' />
-                    </p>
-                </div> */}
+               
             </Slider>
         </div>
     );
